@@ -54,7 +54,7 @@ Below are the minimum hardware specifications needed to run our services efficie
 ## Step 3: Bridge tBNB to OpBNB Testnet
 
 3. **Bridge tBNB**:
-   - Go to the [BNB Chain Bridge](https://testnet.bnbchain.org/en/bridge).
+   - Go to the [BNB Chain Bridge](https://testnet.bnbchain.org/en/bridge) or https://opbnb-testnet-bridge.bnbchain.org/deposit .
    - Transfer the tBNB from the BNB Testnet to the OpBNB Testnet.
 
 ## Step 4: Prepare Your Node's Private Key
