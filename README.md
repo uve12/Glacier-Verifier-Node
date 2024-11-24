@@ -86,7 +86,7 @@ Below are the minimum hardware specifications needed to run our services efficie
 
    - Replace `$YOUR_PRIVATE_KEY` with the private key you copied (without `0x`).
 
-    Ex: **docker run -d -e PRIVATE_KEY=99b2a8983b93c9328d938 --name glacier-verifier docker.io/glaciernetwork/glacier-verifier:v0.0.1**
+    Ex: **docker run -d -e PRIVATE_KEY=99b2a8983b93c9328d938 --name glacier-verifier docker.io/glaciernetwork/glacier-verifier:v0.0.2**
 
 6. **Ensure Faucet Useage**:
    - Before running the node, make sure you've obtained tBNB from the faucet.
